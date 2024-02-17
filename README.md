@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: JetBrainsMono Nerd Font;">Ranmage a very simple random image generator</h1>
+<h1 align="center" style="font-family: JetBrainsMono Nerd Font;">Ranmage, a very simple random image viewer</h1>
 <br/>
 
 ### How to Run?
